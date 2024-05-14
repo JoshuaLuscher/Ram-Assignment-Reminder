@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ram Assignment Notifier</string>
+    <string name="header">Upcoming Assignments:</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Complete assignment</string>
+    <string name="delete_question">Are you sure you want to remove this assignment from the list?</string>
+    <string name="no_assignment_description">No upcoming assignments!\nTap the + to add an assignment.</string>
+    <string name="edit_assignment_title">Edit Assignment</string>
+    <string name="assignment">Assignment:</string>
+    <string name="assignment_detail_title">Assignment Details</string>
+    <string name="assignment_entry_title">Add Assignment</string>
+    <string name="assignment_name_req">Assignment Name</string>
+    <string name="assignment_due_date_req">Due Date</string>
+    <string name="no">No</string>
+    <string name="due_date">Due Date:</string>
+    <string name="save_action">Save</string>
+    <string name="yes">Yes</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="assignment_course_req">Class Name</string>
+    <string name="course">Class:</string>
+
+    <string name="time_to_water">It\'s time to water your %s.</string>
+</resources>
